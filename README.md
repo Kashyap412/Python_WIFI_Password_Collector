@@ -12,7 +12,7 @@ git clone https://github.com/kashyap412/Python_WIFI_Password_Collector.git
 
 # Navigate to the folder and run the script
 
-cd Python_Network_Scan
+cd Python_WIFI_Password_Collector
 python wifi_pass.py
 
 ```
