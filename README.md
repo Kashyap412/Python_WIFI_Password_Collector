@@ -1,4 +1,4 @@
-# Python_WIFI_Password_Sniffer
+# Python_WIFI_Password_Collector
 
 ## Author: github.com/kashyap412
 
@@ -8,7 +8,7 @@
 ```
 # Clone the repository
 
-git clone https://github.com/kashyap412/Python_WIFI_Password_Sniffer.git
+git clone https://github.com/kashyap412/Python_WIFI_Password_Collector.git
 
 # Navigate to the folder and run the script
 
