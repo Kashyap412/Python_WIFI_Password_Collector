@@ -2,7 +2,7 @@
 
 ## Author: github.com/kashyap412
 
-  WIFI Password Sniffer Collect all Wi-Fi Passwords which connects to your Machine
+  Python_WIFI_Password_Collector is a simple python script which Collect's all Wi-Fi Passwords which connects to your Machine
 
 ### Usage:
 ```
